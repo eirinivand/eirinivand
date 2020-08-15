@@ -1,10 +1,16 @@
-### Hi there 👋
+
+![lalala](https://media.giphy.com/media/LMin03FogoLaTJ7lcg/giphy.gif)
+
 
 <!--
 **eirinivand/eirinivand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
+![Eirini's github stats](https://github-readme-stats.vercel.app/api?username=eirinivand&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eirinivand&layout=compact&theme=gotham&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
-
+gotham 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
