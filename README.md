@@ -1,6 +1,4 @@
 
-Guess who makes a living by pressing keys?
-
 ![I make a living by pressing keys.](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThrbTF0Y3huaHNhZmFmZ3l5MGhhZTVsM3htdzk0d3M3Nnc5MGExOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FPbnShq1h1IS5FQyPD/giphy.gif)
 
 <!--
